@@ -63,7 +63,7 @@ class TwitterProfileWidget extends Widget {
 	);
 
 	function getCMSFields() {
-		$fields = new Fieldset(
+		$fields = new FieldSet(
 			new TextField('TwitterUser', 'Account Name'),
 			new DropdownField('TweetCount', 'Number of Tweets', range(1, 20)),
 			new NumericField('SizeHeight', 'Height (px)'),
