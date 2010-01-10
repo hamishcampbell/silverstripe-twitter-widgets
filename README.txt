@@ -1,0 +1,13 @@
+####################################################
+Twitter Widget Pack                           v 0.10
+####################################################
+
+# Maintainer Contact
+Hamish Campbell (Nickname: hamish) 
+<hn.campbell (at) gmail (dot) com>
+
+# Requirements
+SilverStripe 2.3.0
+
+# Documentation
+http://polemic.net.nz/trac/wiki/TwitterWidgetPack
