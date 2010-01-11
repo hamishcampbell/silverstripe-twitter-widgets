@@ -7,7 +7,6 @@
  *
  * @author Hamish Campbell <hn.campbell@gmail.com>
  * @copyright copyright (c) 2010, Hamish Campbell 
- * @license http://creativecommons.org/licenses/by/3.0/nz/ CC Attribution 3.0 NZ Licence
  */
 class TwitterFavesWidget extends TwitterProfileWidget {
 
