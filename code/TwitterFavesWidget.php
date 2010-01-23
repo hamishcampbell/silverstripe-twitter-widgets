@@ -5,6 +5,8 @@
  * Utilizes the twitter javascript widget class to build a dynamic widget for inclusion
  * within a SilverStripe Widget area.
  *
+ * @package widgets
+ * @subpackage twitterwidgetpack
  * @author Hamish Campbell <hn.campbell@gmail.com>
  * @copyright copyright (c) 2010, Hamish Campbell 
  */
