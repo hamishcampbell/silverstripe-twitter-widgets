@@ -66,7 +66,7 @@ class TwitterProfileWidget extends Widget {
 	function getCMSFields() {
 		$fields = new FieldSet(
 			new TextField('TwitterUser', 'Account Name'),
-			new DropdownField('TweetCount', 'Number of Tweets', range(1, 20)),
+			new DropdownField('TweetCount', 'Number of Tweets', range(0, 20)),
 			new NumericField('SizeHeight', 'Height (px)'),
 			new TextField('ShellBackground', 'UI Background Color'),
 			new TextField('ShellColor', 'UI Text Color'),
