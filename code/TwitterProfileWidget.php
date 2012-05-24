@@ -93,7 +93,7 @@ class TwitterProfileWidget extends Widget {
 			'rpp' => $this->TweetCount,
 			'interval' => $this->TweetInterval,
 			'width' => ($this->SizeWidthAuto ? 'auto' : $this->SizeWidth),
-			'height' => $this->Height,
+			'height' => $this->SizeHeight,
 			'theme' => array(
 				'shell' => array(
 					'background' => $this->ShellBackground,
